@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T05:52:36.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="wg49N0eNQLViwoI8jHYN" type="github"><diagram id="eCHaqAdTofoHEWZYrXQT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-21T05:54:28.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Elg_aE6JjeF5XeG_PFji" version="20.5.3" type="github">
+  <diagram id="eCHaqAdTofoHEWZYrXQT" name="第 1 页">
+    <mxGraphModel dx="1886" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GeqgyGRexY3p-APIAECZ-1" value="&lt;font color=&quot;#cc99ff&quot; style=&quot;font-size: 16px;&quot;&gt;&quot;.&quot;根DNS服务器&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="68" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
